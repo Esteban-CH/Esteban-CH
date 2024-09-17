@@ -1,14 +1,8 @@
-<h1 align="center">I'm Esteban Chinchay</h1>
+<h1 align="center">I'm Esteban Chinchay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="">
 </p>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF0000&background=7F53FF00&width=485&height=60&lines=HOLA%2C+BIENVENIDO+A+MI+REPOSITORIO++%F0%9F%92%BB)](https://git.io/typing-svg)
-
-</div>
 
 <h3 align="center">Estudiante de la Carrera de Computación e Informática</h3>
 
@@ -24,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esteban-ch&show_icons=true&locale=en" alt="esteban-ch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteban-ch&" alt="esteban-ch" /></p>
+
+[![Spotify](https://esteban-spotify-28660sjh5-esteban-chs-projects.vercel.app)](https://open.spotify.com/user/USER_NAME)
+
+https://esteban-spotify-28660sjh5-esteban-chs-projects.vercel.app
