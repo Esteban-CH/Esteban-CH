@@ -1,7 +1,17 @@
-<h1 align="center">HOLA, MI NOMBRE ES ESTEBAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <p align="center">
 <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="">
 </p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=04F71A&background=FFFFFF00&width=485&height=60&lines=HOLA%2C+MI+NOMBRE+ES+ESTEBANDIDO+%F0%9F%A5%B5;ESTUDIANTE+DE+COMPUTACION+E+INFORMATICA;SAAVEDRA+CTMRE+TE+VA+A+CAER+LAPO)](https://git.io/typing-svg)
+
+</div>
+
+...
+HOLA A TODOS
+
+...
 
 **Esteban-CH/Esteban-CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
