@@ -1,6 +1,6 @@
-<h1 align="center">HOLA, BIENVENIDO A MI REPOSITORIO DE GITHUB 👋</h1>
+<h1 align="center">HOLA, MI NOMBRE ES ESTEBAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <p align="center">
-<img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" width="">
+<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="">
 </p>
 
 **Esteban-CH/Esteban-CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
