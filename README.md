@@ -20,6 +20,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteban-ch&" alt="esteban-ch" /></p>
 
 
-[![Spotify](https://esteban-spotify-bbgmdj8bp-esteban-chs-projects.vercel.app/api/spotify)]()
+[![Spotify](https://esteban-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/31t4vp6pak7mgkqx2g7tjhr6b4nm)
+
 
 
