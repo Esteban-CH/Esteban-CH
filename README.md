@@ -25,6 +25,9 @@
 
 [![Spotify](https://esteban-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/31t4vp6pak7mgkqx2g7tjhr6b4nm)
 
+<h1 align="center">
 
+   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4vp6pak7mgkqx2g7tjhr6b4nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4vp6pak7mgkqx2g7tjhr6b4nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</h1>
+
