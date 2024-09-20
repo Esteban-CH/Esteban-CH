@@ -40,3 +40,7 @@ if __name__ == '__main__':
    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t4vp6pak7mgkqx2g7tjhr6b4nm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
 
 </h6>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Esteban-CH/count.svg?"  />
+</div>
