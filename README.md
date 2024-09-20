@@ -8,11 +8,6 @@
         self.username = 'Esteban-CH'
         self.name = 'ESTEBAN CHINCHAY'
         self.position = 'FullStack Developer'
-        self.web = 'https://rafnixg.dev'
-        self.links = 'https://links.rafnixg.dev'
-        self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://resume.rafnixg.dev'
-        self.twitter = '@rafnixg'
         self.code = {
             'backend': ['Python', 'Java', 'C#', 'Kotlin', 'SwiftUI', 'PHP'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite', 'Mongo DB', 'SQL Server'],
@@ -32,8 +27,11 @@ if __name__ == '__main__':
     print(me)
 
 ```
+<hr>
 
-
+<details>
+<summary>OTRAS COSAS</summary>
+</details>
 
 <h6 align="center" alt="Coding" width="400">
 
