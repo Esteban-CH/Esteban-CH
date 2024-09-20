@@ -29,9 +29,11 @@ if __name__ == '__main__':
 ```
 <hr>
 
+<!-- 
 <details>
 <summary>OTRAS COSAS</summary>
 </details>
+-->
 
 <h6 align="center" alt="Coding" width="400">
 
