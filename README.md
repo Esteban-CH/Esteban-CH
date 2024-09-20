@@ -1,7 +1,7 @@
 
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
-# <img align="center" src="text (1).gif">
+# <p align="center"> <img align="center" src="text (2).gif"> </p>
 
 ###
 
