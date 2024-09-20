@@ -1,7 +1,7 @@
 
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
-<h2 align="center">Hi 👋! My name is Esteban, from Perú</h2>
+# <img src="text (1).gif">
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/c1/97/e1/c197e1fc5e0178579c3ef6e98fb33ab1.gifv"  />
 
 ###
 
